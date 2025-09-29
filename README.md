@@ -3,7 +3,7 @@
 
 
 1. Фото приложения
-<img width="1080" height="2400" alt="Screenshot_1758630049" src="https://github.com/user-attachments/assets/1d6d27d9-eef0-4f31-b801-a6839269256f" />
+<img width="1498" height="1107" alt="Screenshot_1758630049" src="https://github.com/user-attachments/assets/1d6d27d9-eef0-4f31-b801-a6839269256f" />
 2. Фото где счетчик > 10
 <img width="498" height="1107" alt="больше 10" src="https://github.com/user-attachments/assets/f8bd6627-b9d6-430c-9593-ac794a9f1d08" />
 3. Фото после нажатия кнопки сброс
